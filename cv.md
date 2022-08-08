@@ -8,7 +8,7 @@
 
 
 ## About
-I'm a ~~begginning~~ Frontend Developer :smile:
+I'm a ~~begginning~~ Frontend Developer 😀
 
 ## Skills
 - HTML, CSS
