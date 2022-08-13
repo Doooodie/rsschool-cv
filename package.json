@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "linthtml-config-htmlacademy": "^1.0.3",
+    "stylelint-config-htmlacademy": "^0.1.12",
+    "stylelint-config-prettier": "^9.0.3"
+  },
+
+  "scripts": {
+    "stylelint-check": "stylelint-config-prettier-check"
+  }
+}
