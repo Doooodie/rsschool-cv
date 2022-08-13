@@ -41,5 +41,5 @@ Completed a project called [Pterodactyl](https://doooodie.github.io/IT-Academy-F
 In March 2020 I graduated from IT-Academy courses. They're completed with a [certificate](https://drive.google.com/file/d/1Zc8raiuxStffkMTjaOMeMorkoeYm4lIw/view) (final grade is 10).
 
 ## Languages
-- Enlglish: **B2 Upper-Intermediate** ([certificate](https://www.efset.org/cert/YVSach))
+- English: **B2 Upper-Intermediate** ([certificate](https://www.efset.org/cert/YVSach))
 - Russian: **Native**
